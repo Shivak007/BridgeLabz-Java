@@ -2,7 +2,7 @@ package coreprogramming.arrays.level1;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Copy2DTo1D {
+public class Flatten2DArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

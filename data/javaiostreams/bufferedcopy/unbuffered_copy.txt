@@ -1,0 +1,5 @@
+Buffered streams improve performance.
+This file is copied using normal streams
+and buffered streams for comparison.
+Repeat this content multiple times
+to simulate a large file.

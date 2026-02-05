@@ -1,0 +1,5 @@
+Java is powerful
+Java is platform independent
+Java supports object oriented programming
+Java is popular
+Programming in Java is fun

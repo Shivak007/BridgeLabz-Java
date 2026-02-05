@@ -1,0 +1,7 @@
+INFO Application started
+ERROR Failed to load configuration
+WARN Low memory
+error Disk space running low
+INFO User logged in
+ERROR Database connection failed
+INFO Application stopped

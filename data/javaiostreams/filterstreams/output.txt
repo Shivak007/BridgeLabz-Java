@@ -1,0 +1,3 @@
+hello java
+this is a filter stream example
+convert this text to lowercase

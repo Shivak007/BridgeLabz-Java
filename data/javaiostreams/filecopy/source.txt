@@ -1,0 +1,4 @@
+Java File Handling Example
+This file is used to demonstrate
+copying data using FileInputStream
+and FileOutputStream in Java.

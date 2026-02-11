@@ -67,3 +67,63 @@ Corrected branch names, package names, and Git commit messages according to nami
 
 17th Jan-2026 (Saturday):
 Practiced stack, queue, HashMap, and hashing function problems and pushed the code to GitHub.
+
+19th Jan-2026 (Monday):
+Implemented and analyzed Sorting algorithms – Bubble, Insertion, Merge, and Quick Sort.
+
+20th Jan-2026 (Tuesday):
+Learned and practiced StringBuilder and StringBuffer, focusing on mutability and performance differences.
+
+21st Jan-2026 (Wednesday):
+Studied FileReader and InputStreamReader, and practiced file handling using character streams.
+
+22nd Jan-2026 (Thursday):
+Practiced implementing Linear Search programs in Java and solved related problems.
+
+23rd Jan-2026 (Friday):
+Implemented Binary Search and analyzed time complexity differences between Linear and Binary Search.
+
+24th Jan-2026 (Saturday):
+Studied Run Time Analysis, Big-O notation, and evaluated time and space complexity.
+
+27th Jan-2026 (Tuesday):
+Learned Java Generics – type parameters, generic classes, and methods.
+
+28th Jan-2026 (Wednesday):
+Worked on advanced Generics concepts including bounded types and wildcard usage.
+
+29th Jan-2026 (Thursday):
+Completed Factory Robot Hazard Analyzer system project and pushed the final updates to GitHub.
+
+30th Jan-2026 (Friday):
+Studied the overview and hierarchy of the Java Collections Framework, including List, Set, Queue, Deque, and Map interfaces with their implementations.
+
+31st Jan-2026 (Saturday):
+Learned Java I/O Streams, types of streams, and practiced File Streams and Buffered Streams.
+
+02nd Feb-2026 (Monday):
+Studied types of exceptions including Checked, Unchecked, and Custom Exceptions, and practiced handling using try-catch and throw statements.
+
+03rd Feb-2026 (Tuesday):
+Implemented try-catch-finally, try-with-resources, and used the throws clause in practical exception handling examples.
+
+04th Feb-2026 (Wednesday):
+Learned Regex concepts including metacharacters, quantifiers, common validation patterns (email, password, phone), and practiced using Java Pattern and Matcher APIs.
+
+05th Feb-2026 (Thursday):
+Completed the Factory OceanFleet App and pushed the final updates to GitHub using GitFlow branching strategy.
+
+06th Feb-2026 (Friday):
+Learned Regex concepts including metacharacters, quantifiers, common validation patterns (email, password, phone), and practiced using Java Pattern and Matcher APIs.
+
+07th Feb-2026 (Saturday):
+Practiced writing JUnit test cases for multiple modules and implemented assertions for validation.
+
+09th Feb-2026 (Monday):
+Worked on advanced JUnit concepts including annotations, test lifecycle methods, and improving test coverage.
+
+10th Feb-2026 (Tuesday):
+Learned Java Interface types and practiced implementing interfaces using Anonymous Classes.
+
+11th Feb-2026 (Wednesday):
+Studied Lambda Expressions, Stream API, and Method References with practical programming examples.

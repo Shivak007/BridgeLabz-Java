@@ -4,9 +4,11 @@ out/
 !**/src/test/**/out/
 .kotlin
 
+data
 ### IntelliJ IDEA ###
 .idea/
-*.iml
+.gitignore
+BridgeLabz-Java.iml
 
 ### Eclipse ###
 .apt_generated

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Jason Rajan",
+    "age": 22,
+    "email": "jason.rajan@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Kushal Reddy",
+    "age": 27,
+    "email": "kushal.reddy@yahoo.com"
+  },
+  {
+    "id": 3,
+    "name": "Shiva Kumar",
+    "age": 30,
+    "email": "shiva.kumar@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Naveen Karthik",
+    "age": 24,
+    "email": "invalid-email"
+  }
+]

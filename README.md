@@ -220,6 +220,101 @@ Worked on advanced REST API implementation and tested endpoints using tools like
 
 26th Mar-2026 (Thursday):
 Practiced integrating multiple components including controller, service, and repository layers in Spring applications.
-
 27th Mar-2026 (Friday):
-Started solving Spring-related problems and created a dedicated repository to practice and manage Spring-based implementations.
+Practice and revision of Spring Boot MySQL integration. Resolved pending Spring Boot assignments with proper project structure and backend development preparation.
+
+30th Mar-2026 (Monday):
+UC15: N-Tier Architecture Refactoring — converted Quantity Measurement App from plain Java into a Spring-based N-Tier architecture. Studied architecture evolution including Monolith vs Microservices concepts and core design motivations.
+
+31st Mar-2026 (Tuesday):
+Started Hospital Management System with Spring Boot and Spring Security. Implemented JWT-based authentication and role-based authorization using Spring Security filter chain.
+
+01st Apr-2026 (Wednesday):
+FundooNotes App — implemented Spring Boot fundamentals including Spring REST API development, Spring Scopes, request mapping methods, JPA integration, externalized configuration using application.properties and YAML, global exception handling, logging, and backend architectural patterns.
+
+02nd Apr-2026 (Thursday):
+FundooNotes App — integrated advanced backend concepts including JMS, Redis Cache, RabbitMQ messaging, Spring Batch with Excel processing, Aspect-Oriented Programming (AOP), Spring Cloud fundamentals, and debugging distributed application workflows.
+
+03rd Apr-2026 (Friday):
+Practice and revision of Spring Security, JWT authentication, REST API architecture, caching, messaging systems, and Spring Cloud concepts.
+
+06th Apr-2026 (Monday):
+UC16: Database Integration with JDBC — implemented JDBC-based persistence layer for Quantity Measurement App and reinforced database integration concepts.
+
+07th Apr-2026 (Tuesday):
+UC17: Spring Framework Integration — migrated JDBC implementation to Spring Data JPA repositories and exposed REST endpoints using Spring Boot architecture.
+
+08th Apr-2026 (Wednesday):
+Studied microservices architecture concepts including Microservices characteristics, design standards, use cases, benefits, API ecosystem, distributed systems, SOA vs Monolith vs Distributed architecture comparisons, and key architectural trade-offs.
+
+09th Apr-2026 (Thursday):
+Started Bookstore E-Commerce Microservices project. Implemented core infrastructure including API Gateway, Service Registry using Eureka Discovery Server, and centralized configuration management using Spring Cloud Config Server.
+
+10th Apr-2026 (Friday):
+Built User Service and Admin Service with JWT authentication integration. Applied service registration, inter-service communication concepts, and API gateway routing strategies.
+
+13th Apr-2026 (Monday):
+Implemented Product Service and Cart Service. Studied asynchronous communication using RabbitMQ, caching with Redis, and Spring Batch processing patterns.
+
+14th Apr-2026 (Tuesday):
+Implemented WishList, Customer, and Order Services. Integrated event-driven communication patterns using Kafka for distributed service messaging.
+
+15th Apr-2026 (Wednesday):
+Implemented Feedback and Notification Services. Studied microservices communication models, resilience patterns, distributed tracing overview, and circuit breaker fundamentals.
+
+16th Apr-2026 (Thursday):
+Performed end-to-end integration testing across all microservices. Validated synchronous and asynchronous service communication patterns and debugging distributed application behavior.
+
+17th Apr-2026 (Friday):
+Finalized Bookstore E-Commerce Microservices architecture. Dockerized all services using Docker architecture concepts, Dockerfiles, containers, Docker Compose, YAML configuration, networking, and multi-container orchestration.
+
+20th Apr-2026 (Monday):
+Deep dive into Spring Cloud ecosystem including centralized configuration, service discovery, distributed tracing, circuit breakers, and microservices resilience best practices.
+
+21st Apr-2026 (Tuesday):
+Practice and revision of Spring Cloud patterns, microservices design principles, and distributed application debugging.
+
+22nd Apr-2026 (Wednesday):
+Studied advanced Spring Security concepts including OAuth2, Google Authentication flow, token lifecycle management, and secure user access patterns.
+
+24th Apr-2026 (Friday):
+Revised API Gateway architecture including JWT validation, request routing, CORS configuration, and rate limiting strategies.
+
+27th Apr-2026 (Monday):
+Started cloud deployment learning. Studied AWS cloud fundamentals including cloud computing architecture, deployment models, service models, cloud APIs, cloud-native concepts, hybrid cloud, and AWS global infrastructure.
+
+28th Apr-2026 (Tuesday):
+Hands-on AWS EC2 deployment practice. Worked with application deployment, environment configuration, and infrastructure debugging.
+
+29th Apr-2026 (Wednesday):
+Studied Jenkins CI pipeline fundamentals including automated build and test pipelines, Jenkinsfile structure, CI best practices, pipeline agents, and stage orchestration.
+
+30th Apr-2026 (Thursday):
+Continued DevOps practice covering CI/CD workflows, deployment debugging, and automation strategies.
+
+01st May-2026 (Friday):
+Designed Stock Portfolio Monitoring App architecture using Spring Boot microservices with API Gateway, Eureka, Config Server, authentication, notification, reporting, and event-driven services.
+
+04th May-2026 (Monday):
+Initialized complete microservices infrastructure for Stock Portfolio App with service discovery, gateway routing, centralized config management, and JWT authentication architecture.
+
+05th May-2026 (Tuesday):
+Implemented Auth and User services using Spring Security, JWT, and OAuth2 integration.
+
+06th May-2026 (Wednesday):
+Built Portfolio and Price Fetcher services with RabbitMQ-based asynchronous event communication and Redis caching strategies.
+
+07th May-2026 (Thursday):
+Implemented Alert and Notification services. Completed UC18 Google Authentication integration and UC19 Spring Boot Microservices refactoring for Quantity Measurement App.
+
+08th May-2026 (Friday):
+Studied Docker architecture in depth including Dockerfiles, containers, Docker Compose, YAML configuration, networking, storage volumes, and container lifecycle management.
+
+11th May-2026 (Monday):
+Deployed Stock Portfolio App on AWS EC2. Studied AWS services including EC2, S3, RDS, EBS, IAM users/groups/roles/policies, MFA, security groups, VPC architecture, subnets, route tables, and NAT gateway concepts.
+
+12th May-2026 (Tuesday):
+Implemented Jenkins CI/CD pipeline automation for Stock Portfolio application deployment. Integrated build automation, deployment workflows, and continuous integration best practices.
+
+13th May-2026 (Wednesday):
+Continued backend development and infrastructure refinement for Bookstore and Stock Portfolio applications. Improved Git environment setup, repository structuring, deployment readiness, and backend engineering workflows.
